@@ -5,14 +5,9 @@
 Opentable is the leading provider of free, real-time online reservations for diners and reservation and guest management solutions for restaurants.
 
 ## Screenshots
-<center>
-<p>
- <img src="https://github.com/fscode-master/P_restaurant_React_native/blob/master/images/1.jpg" width="1280" />
- <img src="https://github.com/fscode-master/P_restaurant_React_native/blob/master/images/2.jpg" width="1280" />
- <img src="https://github.com/fscode-master/P_restaurant_React_native/blob/master/images/3.jpg" width="1280" />
- 
-</p>
-</center>
+![Admin screen demo](/readme/1.jpg)  
+![Admin screen demo](/readme/2.jpg)  
+![Admin screen demo](/readme/3.jpg)  
 
 ## Updated new Features
 - Experiences in Canada (English only): All Canadian restaurants (excluding Quebec) now have access to create Experiences in the Marketing tab. Experiences gives restaurants easy-to-use tools to create, market, and manage a full range of experiences all in one place. Go to the Experiences tab in the Marketing section of OpenTable to get started.
