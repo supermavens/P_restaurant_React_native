@@ -14,77 +14,24 @@ Opentable is the leading provider of free, real-time online reservations for din
 </p>
 </center>
 
-## Features
+## Updated new Features
+- Experiences in Canada (English only): All Canadian restaurants (excluding Quebec) now have access to create Experiences in the Marketing tab. Experiences gives restaurants easy-to-use tools to create, market, and manage a full range of experiences all in one place. Go to the Experiences tab in the Marketing section of OpenTable to get started.
 
-- Insert table number
-- Choose menu
-- View bill
+- New POS integration with Amadeus (Germany): Restaurants in Germany can now connect revenue to reservations when integrating their Amadeus POS with OpenTable. Contact our support team here to get started.
 
-## Why Restaurant Point of Sale?
+- New POS integration with Fedelta (Australia): Restaurants in Australia can now connect revenue to reservations when integrating their Fedelta POS with OpenTable. Contact our support team here to get started.
+## Updating new Features
 
-- a simple application with powerful features
-- It's React Native, so it support android & iOS by default
-- Simple code, so you can easly contribute on it
-- Express is one of the most starred javascript framework, and it is very easy to use
+- Experiences Data in Reservations Report (US): View Experiences details (like name, type, and price) in the Reservation Report to help understand the performance of their Experiences and better plan for their shifts
+- Experiences lists and collections on web and iOS app (US/CA EN): Let diners discover your unique experiences from the new landing page to get more bookings
+- Require guests to select an Experience at booking: Require every guest to select a special menu at booking or limit the requirement to certainty party sizes—like large party bookings.
+- Benchmark reporting in 7-day overview (Global): Compare cover trends for upcoming days with other restaurants in your neighborhood in the 7-day overview of the homepage.
+- Takeout Notifications (US): Get iPad notifications when you receive a new takeout order on
 
+#
 ## Tech Stack
 
 - React Native for Mobile Frontend
-- Express.js for backend
+- Python for backend
 
-## Prerequisites
-
-- Make sure You had been install NodeJs in your system https://nodejs.org/
-- Then install React Native https://facebook.github.io/react-native/
-- Dont forget express ad the backend https://expressjs.com/
-
-## Installation & Configuration
-
-follow these steps to install
-
-### Frontend
-
-```bash
-git clone https://github.com/anggaprytn/Restaurant_Client.git
-cd Restaurant_Client
-npm install
-npm start
-react-native run-ios #for ios
-react-native run-android #for android
-```
-
-create .env file and set API_HOST as your expressUri
-
-```env
-API_URL=http://YOUR_DOMAIN:YOUR_PORT
-```
-
-### Backend
-
-```bash
-git clone https://github.com/anggaprytn/Restaurant_Backend.git
-cd Restaurant_Backend
-npm install
-npx sequelize-cli db:migrate
-npx sequelize-cli db:seed:all
-npm install nodemon -D
-npm start
-```
-
-## Support Me :)
-
-  * Star this repository
-  * Hire me [Angga Priyatna](https://www.linkedin.com/in/anggaprytn/)
-
-## Contact
-
-  * WA/Telegram: +62 8961-4276-492
-  * E-Mail: anggaprytna@gmail.com
-  
-
-## Download App (Demo usage only)
-[![download](https://camo.githubusercontent.com/a9c59dcbf62ec123e8bb099fb473ad30554d70e6/68747470733a2f2f69312e77702e636f6d2f61706b6d6f6473696f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f446f776e6c6f61642d496e66696e6974652d44657369676e2d332e342e31302d41706b2e706e67 "Download")](https://drive.google.com/file/d/1f0N4hvzIQ1oD3RXNDKIfGxjyz3jUg2lq/view?usp=sharing)
-
-## Presentation
-<img src="https://www.freeiconspng.com/uploads/presentation-icon-5.png" width="180" height="180" href="https://drive.google.com/open?id=14zjBAuAUmwS3fIsZIgrP-LhxciYOl6n9"/>
 
