@@ -2,7 +2,7 @@
 
 ## About
 
-Restaurant Point of Sale is a mobile application to make it easier for us to order food menus in restaurants, with this application no longer need to queue at the cashier, so that ordering menus and payments become more efficient.
+Opentable is the leading provider of free, real-time online reservations for diners and reservation and guest management solutions for restaurants.
 
 ## Screenshots
 <center>
