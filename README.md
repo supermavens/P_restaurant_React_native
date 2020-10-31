@@ -1,8 +1,12 @@
+
 # Restaurant Point of Sale
+##⚠️ Don't try to clone and run it.
+It's only for best coding practice and experience. 
+If your system is broken after trying it,  I can't hold myself responsible for it.
 
 ## About
 
-Opentable is the leading provider of free, real-time online reservations for diners and reservation and guest management solutions for restaurants.
+It is the leading provider of free, real-time online reservations for diners and reservation and guest management solutions for restaurants.
 
 ## Screenshots
 ![Admin screen demo](/readme/1.jpg)  
