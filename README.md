@@ -1,11 +1,9 @@
-
 # Restaurant Point of Sale
-
-### ⚠️ Don't try to clone and run it. 
 
 ## About
 
 It is the leading provider of free, real-time online reservations for diners and reservation and guest management solutions for restaurants.
+### ⚠️ Don't try to clone and run it. 
 
 ## Screenshots
 ![Admin screen demo](/readme/1.jpg)  
