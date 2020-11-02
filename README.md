@@ -1,7 +1,7 @@
 
 # Restaurant Point of Sale
-## ⚠️ Don't try to clone and run it. It's only for best coding practice and experience. 
-If the system breaks down after trying, there is no reason to take responsibility.
+
+### ⚠️ Don't try to clone and run it. 
 
 ## About
 
